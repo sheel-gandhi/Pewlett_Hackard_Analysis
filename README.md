@@ -2,6 +2,14 @@
 
 Analysis on Employee Database using SQL 
 
+## Purpose
+
+* **Design an ERD that will apply to the data.**
+* **Create and use a SQL database.**
+* **Import and export large CSV datasets into pgAdmin.**
+* **Practice using different joins to create new tables in pgAdmin.**
+* **Write basic- to intermediate-level SQL statements.**
+
 ## Overview of the analysis
 
 The purpose of this project is to help Pewlett Hackard, a large company with several thousand employees identify soon-to-retire employees based on department, salary, and title. This will aid the company in deciding which positions needs to be filled in near future and to form retirement packages for them. We will also have a closer look at employees nearing retirement with senior positions so that they can be offered mentorship roles to train new employees. 
