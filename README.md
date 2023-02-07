@@ -1,6 +1,6 @@
 # Pewlett_Hackard_Analysis
 
-Analysis on Employee Database using PostgreSQL 
+Analysis on Employee Database using SQL 
 
 ## Overview of the analysis
 
