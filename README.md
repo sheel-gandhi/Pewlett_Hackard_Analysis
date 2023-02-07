@@ -1,6 +1,6 @@
 # Pewlett_Hackard_Analysis
 
-Analysis on Employee Database using SQL 
+Analysing Employee Database using SQL 
 
 ## Purpose
 
